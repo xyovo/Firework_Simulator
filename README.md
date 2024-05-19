@@ -33,11 +33,3 @@
 - [Firework Simulator v2](https://codepen.io/MillerTime/pen/XgpNwb)
 
 - [haodong108/fireworks-2023](https://gitee.com/haodong108/fireworks-2023 "haodong108/fireworks-2023")
-
-## 最便宜的VPN
-
-[https://nianbroken.github.io/Great-Firewall/](https://nianbroken.github.io/Great-Firewall/ "https://nianbroken.github.io/Great-Firewall/")
-
-## 其他
-
-欢迎提交 `Issues` 和 `Pull requests`
